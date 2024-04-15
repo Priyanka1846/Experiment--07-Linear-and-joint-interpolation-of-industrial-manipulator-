@@ -43,7 +43,7 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Program : 
 ![WhatsApp Image 2024-04-15 at 14 31 14_78b126c7](https://github.com/Priyanka1846/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139425809/20098c72-582f-4e22-b65c-1ffc5de29ea5)
 
-##Robot movement:
+## Robot movement:
 ![WhatsApp Image 2024-04-15 at 14 31 15_f647760a](https://github.com/Priyanka1846/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139425809/d85bf8cd-17b2-45d7-9124-5a1913312e13)
 ![WhatsApp Image 2024-04-15 at 14 31 15_14d3e386](https://github.com/Priyanka1846/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/139425809/2e02bdaa-2922-4176-ab94-49d2304ac32f)
 
